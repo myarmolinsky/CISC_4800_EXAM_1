@@ -1,0 +1,12 @@
+.underlined {
+  text-decoration: underline;
+}
+
+.headings {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+body {
+  font-family: Verdana, Geneva, sans-serif;
+}

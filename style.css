@@ -5,8 +5,9 @@
 .headings {
   text-transform: uppercase;
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 
 body {
-  font-family: Verdana, Geneva, sans-serif;
+  font-family: Verdana, sans-serif;
 }
